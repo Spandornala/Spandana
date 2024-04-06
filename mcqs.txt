@@ -1,0 +1,44 @@
+1)The \u0021 article referred to as a
+
+i)Unicode escape sequence
+ii)Octal escape
+iii)Hexadecimal
+iv)Line feed
+
+ans: i
+
+2) Which of the following for loop declaration is not valid?
+
+i)for ( int i = 99; i >= 0; i / 9 )
+ii)for ( int i = 7; i <= 77; i += 7 )
+iii)for ( int i = 20; i >= 2; - -i )
+iv)for ( int i = 2; i <= 20; i = 2* i )
+
+ans: i
+
+3) Which option is false about the final keyword?
+
+i)A final method cannot be overridden in its subclasses.
+ii)A final class cannot be extended.
+iii)A final class cannot extend other classes.
+iv)A final method can be inherited.
+
+ans: iii
+
+4) Which keyword is used for accessing the features of a package?
+
+i)package
+ii)import
+iii)extends
+iv)export
+
+ans: ii
+
+5) What is the initial quantity of the ArrayList list?
+
+i)5
+ii)10
+iii)0
+iv)100
+
+ans: ii
